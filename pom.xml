@@ -1,0 +1,5 @@
+<repository>
+    <id>bkbc-extjar</id>
+    <name>Bkbc Extjar MvnRepo</name>
+    <url>https://github.com/y12studio/bkbc-extjar-mvn/raw/master/</url>
+</repository>
